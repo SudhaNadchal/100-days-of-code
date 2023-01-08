@@ -6,7 +6,8 @@
 
 #**Thoughts**: I had used NUnit in the past. But that was at surface level.This exercise gave me a good insight on depth of NUnit
 
-#**Link(s) to work**: https://testautomationu.applitools.com/nunit-tutorial/
+#**Link(s) to work**: https://github.com/SudhaNadchal/NUnit-Models
+Reference: https://testautomationu.applitools.com/nunit-tutorial/
 
 ### Day 2 : January 8, 2022
 
