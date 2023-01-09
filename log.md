@@ -17,3 +17,10 @@ Reference: https://testautomationu.applitools.com/nunit-tutorial/
 
 #**Link(s) to work**: https://github.com/SudhaNadchal/ApplitoolsEye-Selenium
 #** Reference : Test automation University
+### Day 3 : January 9, 2022
+
+#**Today's Progress**: ChatGPT extension for VS 2022 
+
+#**Thoughts**: Used ChatGPT API to create a extension for VS 2022. It's a WIP. There are some challenges as VSIX is not supported in .NET Core, but ChatGPT requires .NET Core 5.0 or higher. Will continue to explore tomorrow
+
+#**Link(s) to work**:https://github.com/SudhaNadchal/ChatGPT-VS-Extension
