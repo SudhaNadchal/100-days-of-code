@@ -24,3 +24,11 @@ Reference: https://testautomationu.applitools.com/nunit-tutorial/
 #**Thoughts**: Used ChatGPT API to create a extension for VS 2022. It's a WIP. There are some challenges as VSIX is not supported in .NET Core, but ChatGPT requires .NET Core 5.0 or higher. Will continue to explore tomorrow
 
 #**Link(s) to work**:https://github.com/SudhaNadchal/ChatGPT-VS-Extension
+### Day 4 : January 10, 2022
+
+#**Today's Progress**: ChatGPT extension for VS 2022 
+
+#**Thoughts**: Ditched on using openAI for .NET package which requires .NET core 5 or higher.
+Explored a way of sending HTTP request to chatGPT endpoints and retrieving the response. It's stil work in progress.
+
+#**Link(s) to work**:https://github.com/SudhaNadchal/ChatGPT-VS-Extension
