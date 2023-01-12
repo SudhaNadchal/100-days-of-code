@@ -32,3 +32,17 @@ Reference: https://testautomationu.applitools.com/nunit-tutorial/
 Explored a way of sending HTTP request to chatGPT endpoints and retrieving the response. It's stil work in progress.
 
 #**Link(s) to work**:https://github.com/SudhaNadchal/ChatGPT-VS-Extension
+### Day 5 : January 11, 2022
+
+#**Today's Progress**: ChatGPT extension for VS 2022 
+
+#**Thoughts**: Tried alternate end points. No much luck to bring it to a working state. Will pause on this project for a while and revisit.
+
+#**Link(s) to work**:https://github.com/SudhaNadchal/ChatGPT-VS-Extension
+### Day 5 : January 12, 2022
+
+#**Today's Progress**: Selenium Framework in C# for Web Testing 
+
+#**Thoughts**: Planning to create a automation framework using Selenium in C#. Created a skeleton 
+
+#**Link(s) to work**:https://github.com/SudhaNadchal/Selen-eaze
