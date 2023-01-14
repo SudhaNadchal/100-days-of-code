@@ -39,10 +39,10 @@ Explored a way of sending HTTP request to chatGPT endpoints and retrieving the r
 #**Thoughts**: Tried alternate end points. No much luck to bring it to a working state. Will pause on this project for a while and revisit.
 
 #**Link(s) to work**:https://github.com/SudhaNadchal/ChatGPT-VS-Extension
-### Day 5 : January 12, 2022
+### Day 6 : January 14, 2022
 
 #**Today's Progress**: Selenium Framework in C# for Web Testing 
 
-#**Thoughts**: Planning to create a automation framework using Selenium in C#. Created a skeleton 
+#**Thoughts**: Added selenium libraries and wrote a sample test case to automate satsroyale.com. I could spend only 15 min today. 
 
 #**Link(s) to work**:https://github.com/SudhaNadchal/Selen-eaze
